@@ -8,7 +8,7 @@ There are three types of different categories considered in the project regardin
 In consideration of audiences without prior knowledge of programming, a more readable programming language - XML is adopted. Hence, audiences could access this project by following the instruction. 
 
 ## Data
-TThis project includes 40 Japanese rap songs found on Youtube as samples. Each of them last around 40 seconds. More information can be found in the source.csv file. They are managed in the following pattern: Song title, Rapper, Part Retrieved, and Link.
+This project includes 40 Japanese rap songs found on Youtube as samples. Each of them last around 40 seconds. More information can be found in the source.csv file. They are managed in the following pattern: Song title, Rapper, Part Retrieved, and Link.
 
 Among the 3 types of categories, namely, TEXT, SOUND, and IMAGERY, TEXT is the most prominent. The penultimately significant type of the SOUND is out of our prediction. As it is assumed that SOUND-related poetic devices will be widely used in lyrics to create rhymes and musical effects. The use of auditory imagery has also come to our surprise, as it is similar to the SOUND category.
 
