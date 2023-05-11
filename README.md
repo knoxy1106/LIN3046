@@ -11,9 +11,10 @@ In consideratoin of audiences without prior knowledge of programming, a more rea
 The project include 40 rap songs. Each of them last around 40 seconds.
 
 
+
 ## Methodology
 
-The 3 types of catergory
+In this project, lyrics is regarded as a poetry for they have qualities in common such as writing styles. Poetc devices are the teniquees applied in writing to to enchance the playfulness and aesthetic of a text. Although the purposes of using poetic devices in rap lyrics might vary, they doubtlessly improve music lovers' experiences when listening. 
 
 Metaphor and simile are two similar poetic devices both make comparison. The difference between them is the directness. Simile refers to A is like B, whether Metaphor indicates A is B.
 
@@ -26,11 +27,12 @@ The less signifcant poetic device recorded in the TEXT category is personficaito
 1. Watch (,) my money (is) dance(ing)
 2. Watch my money dancing (using visual imagery to create a scene that money flies)
 
-As for the Sound catergory, there are the use of consonance is recorded for 39 times. 
+As for the Sound catergory,the use of consonance is recorded for 39 times. 
 
 Lastly, the data of the Imagery group is out of expectance. The use of auditory is recorded for 8 times. It is argued that visual imagery is sailent in convey the hip-hop culture - flexing. For example, in the line 片手に札束飲み込むHennessy from the song "I'm"T"", it visualizes the image of the rapper holding banknotes and a luxurious alcohol - Hennessy. 
 
 Furthermore, auditory imagery is slight different from onomatopoeia introduced ealirer. Auditory imagery could refer to a conversation, or a sound not conveyed through the onomatopoeia. For example, in the 人が聞いたら唖然としそう from the song "家庭の事情", 唖然 referring to an auditory imagery creates an image of silence. 
 
+Hence, it is recommended that audiences focus on these aspects listed abovce when adapting our method in lyrics anaylsis.
 
 ## Contributors
