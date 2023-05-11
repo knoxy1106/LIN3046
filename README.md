@@ -13,21 +13,20 @@ This project includes 40 Japanese rap songs found on Youtube as samples. Each of
 Among the 3 types of categories, namely, TEXT, SOUND, and IMAGERY, TEXT is the most prominent. The penultimately significant type of the SOUND is out of our prediction. As it is assumed that SOUND-related poetic devices will be widely used in lyrics to create rhymes and musical effects. The use of auditory imagery has also come to our surprise, as it is similar to the SOUND category.
 
 TEXT related poetic devices:
-metaphors 97 times
-allusion 15 times
-repetition 34 times
-simile 10 times
+metaphors 97 times,
+allusion 15 times,
+repetition 34 times,
+simile 10 times,
 personification 11 times
 
 SOUNS related poetic devices:
-alliteration 113 times
-assonance 35 times
-consonance 39 times
+alliteration 113 times,
+assonance 35 times,
+consonance 39 times,
 onomatopoeia 12 times
 
 IMAGERY related poetic devices:
-visual 94 times
-tactile 1 time
+visual 94 times,
 auditory 8 times
 
 ## Methodology
