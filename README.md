@@ -8,7 +8,7 @@ There are three types of different categories considered in the project regardin
 In consideratoin of audiences without prior knowledge of programming, a more reabable programming language - XML is adopted. Hence, audiences could access to this project by following the instruction.  
 
 ## Data
-The project include 40 rap songs. Each of them last around 40 seconds.
+The project include 40 Japanese rap songs found on Youtube as samples . Each of them last around 40 seconds. More information can be found in the source.csv file. They are managed in 
 
 
 
@@ -16,7 +16,11 @@ The project include 40 rap songs. Each of them last around 40 seconds.
 
 In this project, lyrics is regarded as a poetry for they have qualities in common such as writing styles. Poetc devices are the teniquees applied in writing to to enchance the playfulness and aesthetic of a text. Although the purposes of using poetic devices in rap lyrics might vary, they doubtlessly improve music lovers' experiences when listening. 
 
-Metaphor and simile are two similar poetic devices both make comparison. The difference between them is the directness. Simile refers to A is like B, whether Metaphor indicates A is B.
+The first type of catergory is TEXT. There are mutliple approach poet can use to enchance the text. Metaphor and simile are two similar poetic devices both make comparison. The difference between them is the directness. Simile refers to A is like B, whether Metaphor indicates A is B. Secondly, allusion means to referecne an inforation absent in the content. Repetition, on the otherhand refers to the words or phrase repeated. 
+
+The succeeding catergory is SOUND. Sound is a pratically important element in both sound and poetry. By repetition certain sounds, audience could receive a more enjoyable experience appreicating music. Assonance refers to the repetition of vowels sound. Alliteration means the repetition of inital consonant sounds. Likewise, cosonance also carries the meaning of consonant sounds repeition but at the middle or end of a word.
+
+The last catergory IMAGERY. Imgaery is a common poetic device in poetry. It creates vivid imagary for audience, as if inviting them to praticing in the scene. Visual imagery refers to describing a scene precisely, so audiences could feel relatable. Auditory imagery means to describe sounds in details to create vividness.
 
 ## Discussion
 
@@ -36,3 +40,4 @@ Furthermore, auditory imagery is slight different from onomatopoeia introduced e
 Hence, it is recommended that audiences focus on these aspects listed abovce when adapting our method in lyrics anaylsis.
 
 ## Contributors
+MAK KA LOK (s11438472)
